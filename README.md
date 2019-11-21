@@ -41,3 +41,5 @@ create a new branch is quick and simple.
 --no--ff 表示禁用Fast forward
 
 i resolve the bug
+
+hello 

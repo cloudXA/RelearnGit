@@ -36,4 +36,5 @@
 
 `注意：函数参数有自己的作用域和临时死区，其与函数体的作用域是各自独立的，就是说，参数的默认值不可访问函数体内声明的变量`；
 
-create a new branch is quick & simple.
+create a new branch is quick and simple.
+
